@@ -1,5 +1,5 @@
 # Real Estate Sales Performance Dashboard  
-**📅 Project Duration: December 2025**
+**📅 Project Duration: 1 Week**
 
 ---
 
