@@ -59,8 +59,3 @@ The dataset was transformed and cleaned using Power BI’s **Power Query Editor*
 ## ✅ Conclusion  
 
 This project represents a complete real-world workflow of **data preparation, transformation, and visualization using Power BI**.  
-
-It is highly suitable for:
-- 📌 Portfolio projects  
-- 💼 Data analyst interviews  
-- 📊 Business intelligence use cases  
