@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.Source
 2.Promoted Headers
 3.Changed Type
@@ -10,4 +11,18 @@
 10.Replaced null values and error values
 11.Removed unnecessory columns
 12.Renamed columns
+=======
+1.Source
+2.Promoted Headers
+3.Changed Type
+4.Removed Duplicate Records
+5.Removed Blank Rows
+6.Duplicated Columns
+7.Reordered Columns
+8.Split Column by positions
+9.Split Column by Delimiter
+10.Replaced null values and error values
+11.Removed unnecessory columns
+12.Renamed columns
+>>>>>>> 6818d00 (Added Sales_data.csv and modifications)
 13.Sorted Rows
